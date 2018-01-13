@@ -1,0 +1,19 @@
+.btn {
+    margin-right: 5px;
+}
+.markedAsDone {
+    text-decoration: line-through;
+    color: #777
+}
+.change-opacity {
+    opacity: 0;
+}
+tr:hover > .change-opacity {
+    opacity: 100;
+}
+.todo-form {
+    padding-bottom: 50px;
+}
+.table-actions {
+    width: 105px;
+}
